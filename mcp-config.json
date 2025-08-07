@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "ezanvakti": {
+      "command": "dotnet",
+      "args": [
+        "run", 
+        "--project", 
+        "/Users/hhklmc/CascadeProjects/EzanVakti.MCP.Server/EzanVakti.MCP.Server.csproj"
+      ],
+      "env": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

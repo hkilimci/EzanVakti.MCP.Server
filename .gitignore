@@ -1,0 +1,32 @@
+# .NET Build Artifacts
+bin/
+obj/
+out/
+publish/
+releases/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+!.vscode/mcp.json
+
+# JetBrains
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Release packages
+releases/
+
+# Temporary files
+*.tmp
+*.temp
